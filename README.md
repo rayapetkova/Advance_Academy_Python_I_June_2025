@@ -4,5 +4,5 @@
 
 ## Structure:
 Each lesson is organized in its own folder, containing:
-✅ Examples demonstrated during the lesson
-📝 In-class tasks
+- ✅ Examples demonstrated during the lesson
+- 📝 In-class tasks
